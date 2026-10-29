@@ -21,6 +21,7 @@ add other awesome Kurds, including you!
 - [Graphic Designers](#graphic-designers)
 
 ## Software Development
+- [Ibrahim Rebwar](https://irebwar.com): Full-Stack, PHP, Laravel, React, Inertia.js, Flutter, Dart, Mobile Apps (iOS & Android), MySQL, REST APIs, Tailwind CSS
 - [Dilshad Aziz] (https://dilshad.net): JavaScript, TypeScript, ReactJs, NextJs, Expo, pyhthon.
 - [Abdulbari Qaisar](https://github.com/Abdulbariii): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
